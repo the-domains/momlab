@@ -1,0 +1,14 @@
+layout_spectrum: 0.9180703891906887
+typography_spectrum: 0.8641493548639119
+color:
+  brandStrength: 0.6199977190699428
+  lightness: 0.7497000889852643
+  saturation: 0.16825217474251986
+  rhythmicContrast: 0.6349146978463978
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: momlab
