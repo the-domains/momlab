@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[momlab]]></title>
+        <description><![CDATA[momlab]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Jul 2016 00:43:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Treehouse Chocolate's Four Drinking Chocolates]]></title>
+            <description><![CDATA[<article><h1>Treehouse Chocolate's Four Drinking Chocolates</h1><p>Winter may be officially over in the Northern Hemisphere, but that doesn't mean hot chocolate has to disappear from people's radar until temperatures cool again. For some of us, it makes for a viable alternative to coffee in the morning-with some serious sugar and cocoa kick.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/707cfeb12d925cddf6493a0f7a931b18979b2c86.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/food-drink/treehouse-chocolate-portland-drinking-chocolate</link>
+            <guid isPermaLink="false">a9d8ef35-3dc5-40db-8808-7c504673b0cf</guid>
+            <pubDate>Sun, 24 Jul 2016 00:43:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
